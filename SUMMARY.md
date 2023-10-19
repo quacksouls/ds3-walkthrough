@@ -10,3 +10,4 @@
 - [Cleansing Chapel](doc/cleansing-chapel.md)
 - [Farron Keep](doc/farron-keep.md)
 - [Catacombs of Carthus](doc/catacombs-carthus.md)
+- [Demon Ruins](doc/demon-ruins.md)
