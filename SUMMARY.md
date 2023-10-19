@@ -15,3 +15,4 @@
 - [Irithyll Dungeon & Profaned Capital](doc/irithyll-dungeon-profaned-capital.md)
 - [Anor Londo](doc/anor-londo.md)
 - [Quest lines wrap up & Dancer](doc/quest-lines-wrap-up.md)
+- [Consumed King's Garden](doc/consumed-kings-garden.md)
