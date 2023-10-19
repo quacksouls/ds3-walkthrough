@@ -7,3 +7,4 @@
 - [High Wall of Lothric](doc/high-wall-lothric.md)
 - [Undead Settlement](doc/undead-settlement.md)
 - [Crucifixion Woods](doc/crucifixion-woods.md)
+- [Cleansing Chapel](doc/cleansing-chapel.md)
