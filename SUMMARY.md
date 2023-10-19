@@ -11,3 +11,4 @@
 - [Farron Keep](doc/farron-keep.md)
 - [Catacombs of Carthus](doc/catacombs-carthus.md)
 - [Demon Ruins](doc/demon-ruins.md)
+- [Irithyll of the Boreal Valley](doc/irithyll-boreal-valley.md)
