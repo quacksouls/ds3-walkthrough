@@ -16,3 +16,4 @@
 - [Anor Londo](doc/anor-londo.md)
 - [Quest lines wrap up & Dancer](doc/quest-lines-wrap-up.md)
 - [Consumed King's Garden](doc/consumed-kings-garden.md)
+- [Untended Graves](doc/untended-graves.md)
