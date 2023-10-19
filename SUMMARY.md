@@ -13,3 +13,4 @@
 - [Demon Ruins](doc/demon-ruins.md)
 - [Irithyll of the Boreal Valley](doc/irithyll-boreal-valley.md)
 - [Irithyll Dungeon & Profaned Capital](doc/irithyll-dungeon-profaned-capital.md)
+- [Anor Londo](doc/anor-londo.md)
