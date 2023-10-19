@@ -19,3 +19,4 @@
 - [Untended Graves](doc/untended-graves.md)
 - [Lothric Castle](doc/lothric-castle.md)
 - [Grand Archives](doc/grand-archives.md)
+- [Archdragon Peak](doc/archdragon-peak.md)
