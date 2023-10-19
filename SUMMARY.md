@@ -8,3 +8,4 @@
 - [Undead Settlement](doc/undead-settlement.md)
 - [Crucifixion Woods](doc/crucifixion-woods.md)
 - [Cleansing Chapel](doc/cleansing-chapel.md)
+- [Farron Keep](doc/farron-keep.md)
