@@ -24,3 +24,4 @@
 - [Ashes of Ariandel](doc/ashes-ariandel.md)
 - [The Dreg Heap](doc/dreg-heap.md)
 - [The Ringed City](doc/ringed-city.md)
+- [Ringed City bosses](doc/ringed-city-bosses.md)
