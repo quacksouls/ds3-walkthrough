@@ -21,3 +21,4 @@
 - [Grand Archives](doc/grand-archives.md)
 - [Archdragon Peak](doc/archdragon-peak.md)
 - [Great Belfry](doc/great-belfry.md)
+- [Ashes of Ariandel](doc/ashes-ariandel.md)
