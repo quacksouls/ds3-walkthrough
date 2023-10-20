@@ -27,3 +27,4 @@
 - [Ringed City bosses](doc/ringed-city-bosses.md)
 - [Final wrap up](doc/final-wrap-up.md)
 - [Soul of Cinder](doc/soul-cinder.md)
+- [What's next?](doc/whats-next.md)
