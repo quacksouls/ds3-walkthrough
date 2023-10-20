@@ -1,7 +1,7 @@
 {
   "name": "ds3-walkthrough",
-  "version": "0.0.2",
-  "description": "A template for documentation",
+  "version": "1.0",
+  "description": "Beginner's walkthrough of Dark Souls III",
   "main": "index.js",
   "scripts": {
     "clean": "prettier --write README.md doc",
